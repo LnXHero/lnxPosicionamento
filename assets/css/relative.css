@@ -9,8 +9,8 @@ html {
 main{
     width: 660px;
     background-color: white;
-    font-size: 14px;
     font-family: cursive;
+    font-size: 14px;
     box-shadow: 0 0 10px gray;
     margin: 10px auto;
     padding: 10px;
@@ -27,9 +27,9 @@ section {
 }
 .janela1 {
     background-color: rgb(0, 158, 0);
-    position: static;
-    margin-top: 20px;
-    margin-left: 20px;
+    position: relative;
+    top: 20px;
+    left: 20px;
 }
 .janela2 {
     background-color: yellow;
@@ -39,3 +39,10 @@ section {
     background-color: blue;
     
 }
+
+
+
+
+
+
+
