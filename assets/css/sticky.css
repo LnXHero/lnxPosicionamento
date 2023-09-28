@@ -1,0 +1,20 @@
+* {
+    font-family: cursive;
+}
+main {
+    height: 3000px;
+    width: 100%;
+}
+#principal, #segunda-div {
+    height: 950px;
+    background-color: aquamarine;
+}
+#img {
+    background: url(../img/lnx.png) no-repeat;
+    background-size: cover;
+    width: 650px;
+    height: 250px;
+    position: sticky;
+    left: 50px;
+    top: 50px;
+}
